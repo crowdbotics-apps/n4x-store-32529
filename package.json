@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/app-menu": "file:./modules/app-menu/",
+    "@modules/chat": "file:./modules/chat/",
     "@modules/login": "file:./modules/login/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-community/masked-view": "^0.1.10",
